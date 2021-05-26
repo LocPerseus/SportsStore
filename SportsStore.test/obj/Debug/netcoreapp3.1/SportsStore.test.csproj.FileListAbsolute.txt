@@ -1,0 +1,9 @@
+E:\Learning\DotNet\SportsStore_NetCoreMVC\SportsStore\SportsStore.test\bin\Debug\netcoreapp3.1\SportsStore.test.deps.json
+E:\Learning\DotNet\SportsStore_NetCoreMVC\SportsStore\SportsStore.test\bin\Debug\netcoreapp3.1\SportsStore.test.dll
+E:\Learning\DotNet\SportsStore_NetCoreMVC\SportsStore\SportsStore.test\bin\Debug\netcoreapp3.1\SportsStore.test.pdb
+E:\Learning\DotNet\SportsStore_NetCoreMVC\SportsStore\SportsStore.test\obj\Debug\netcoreapp3.1\SportsStore.test.csprojAssemblyReference.cache
+E:\Learning\DotNet\SportsStore_NetCoreMVC\SportsStore\SportsStore.test\obj\Debug\netcoreapp3.1\SportsStore.test.AssemblyInfoInputs.cache
+E:\Learning\DotNet\SportsStore_NetCoreMVC\SportsStore\SportsStore.test\obj\Debug\netcoreapp3.1\SportsStore.test.AssemblyInfo.cs
+E:\Learning\DotNet\SportsStore_NetCoreMVC\SportsStore\SportsStore.test\obj\Debug\netcoreapp3.1\SportsStore.test.csproj.CoreCompileInputs.cache
+E:\Learning\DotNet\SportsStore_NetCoreMVC\SportsStore\SportsStore.test\obj\Debug\netcoreapp3.1\SportsStore.test.dll
+E:\Learning\DotNet\SportsStore_NetCoreMVC\SportsStore\SportsStore.test\obj\Debug\netcoreapp3.1\SportsStore.test.pdb

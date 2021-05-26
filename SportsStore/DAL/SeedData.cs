@@ -18,8 +18,9 @@ namespace SportsStore.DAL
          */
         public static void EnsurePopulated(IApplicationBuilder app)
         {
-            ApplicationDbContext context = app.ApplicationServices
-                .GetRequiredService<ApplicationDbContext>();
+            var scope = app.ApplicationServices.CreateScope();
+            var context = scope.ServiceProvider
+                                              .GetRequiredService<ApplicationDbContext>();
 
             if (!context.Products.Any())
             {
@@ -90,6 +91,7 @@ namespace SportsStore.DAL
                     );
                 context.SaveChanges();
             }
+
         }
     }
 }
